@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/quaz4/personal-website-server/issues"
   },
-  "homepage": "https://github.com/quaz4/personal-website-server#readme"
+  "homepage": "https://github.com/quaz4/personal-website-server#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
 }
